@@ -39,7 +39,8 @@ We used 4 techniques of oversampling and undersampling to balance our dataset .
 4)Gaussian Naive Bayes
 
 
-#Project Overflow
+# Project Overflow
+
 
 ![Untitled_Diagram](https://user-images.githubusercontent.com/40456128/147197921-c2e95b44-68dc-4823-a5ae-c52caec22c52.png)
 
